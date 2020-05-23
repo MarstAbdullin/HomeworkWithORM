@@ -1,0 +1,15 @@
+GET localhost:8080/files/init
+
+###
+
+GET localhost:8080/files/convert
+
+###
+
+GET localhost:8080/users/1/files/png/convert
+
+###
+
+GET localhost:8080/users/1/files/information
+
+###
